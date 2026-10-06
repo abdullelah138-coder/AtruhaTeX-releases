@@ -1,0 +1,6 @@
+Integration provider marks: Zotero, Wolfram, and Git.
+Source: Simple Icons, https://github.com/simple-icons/simple-icons
+Revision: 1089fb7d2bf0e323f834c205ab76265005a6d5e8
+License: CC0 1.0 Universal; see Simple-Icons-CC0-1.0.txt.
+The marks identify their respective providers; their names and trademarks belong to their owners.
+SVG paths are unchanged and rendered with the current interface text color.

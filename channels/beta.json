@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1+build.2",
+  "notes": "AtruhaTeX Pi 3.1 maintenance update.\n\nChoose whether AtruhaTeX opens the Welcome page or restores your workspace in Settings. Select an editor theme in Settings, and manage signed application updates from About.\n\nThe application version remains 1.0.1.",
+  "pub_date": "2026-10-06T04:45:44.933Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbzNwUFR4eWJaRTNQbGxnOFRtSi91RU0xS0JNZVZXd1ZFSjRQSjQ4SmFlb1N4Ym5aYVN4KzdVOC9xMlEwRTgzUEpKM3VnTXhmZGM2bTY5V2Q5S3hFaFhjUjY3NUhlYmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjYxOTQxCWZpbGU6QXRydWhhVGVYXzEuMC4xX3g2NC1zZXR1cC5leGUKTnJUUitBS3pTTUdyMUJIYkY4SmJzWjZFelFlMHRSNDlienUreXF0QzZrcExCSENWcXVhN3VaODYzUUoxbG0rTGFBV2lWY3lEUXBzWU9kbFgxRkViQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/abdullelah138-coder/AtruhaTeX-releases/main/windows/1.0.1/build-2/AtruhaTeX_1.0.1_Windows-x64.exe"
+    }
+  }
+}

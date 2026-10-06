@@ -1,0 +1,27 @@
+Offline citation formatting in AtruhaTeX
+
+Citation.js 0.9.0 (core, plugin-bibtex, plugin-ris, plugin-csl)
+Copyright Lars Willighagen; MIT. See the corresponding *-MIT.txt notices.
+https://github.com/citation-js/citation-js
+
+citeproc-js 2.4.63, Copyright (c) 2009-2019 Frank Bennett.
+This distribution selects the CPAL-1.0 option of the upstream dual license.
+See CPAL-1.0.txt and the unmodified upstream notice in citeproc-LICENSE.txt.
+The complete unminified source distributed by upstream's npm package is
+included here as citeproc-2.4.63-source.js. No substantive source changes.
+Vite transforms this original CommonJS source into a bundled/minified worker
+for execution; the original source is included on the same distribution media.
+Source remains available under the terms of CPAL-1.0.
+Upstream modular source/build history: https://github.com/Juris-M/citeproc-js
+https://citeproc-js.readthedocs.io/
+
+Citation Style Language styles (APA, Vancouver, Harvard author-date):
+CC BY-SA 3.0; see CC-BY-SA-3.0.txt. Styles are unmodified, with all authors,
+contributors and rights metadata retained in styles.json. See each style's
+<info> element for its individual contributors. Locale data: CSL project,
+Creative Commons Attribution-ShareAlike 3.0; retained in locales.json.
+https://citationstyles.org/ and https://github.com/citation-style-language/styles
+
+Licenses, source and original style/locale data ship in public/licenses/citation
+and the application's /licenses/citation/ resources. Citation rendering is
+entirely offline. No document or bibliography is uploaded to the processor.

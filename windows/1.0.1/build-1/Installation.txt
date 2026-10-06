@@ -1,0 +1,23 @@
+AtruhaTeX 1.0.1
+Windows x64
+
+Run the EXE and approve administrator access to install AtruhaTeX.
+Save your work and close AtruhaTeX before updating an existing installation.
+If an older per-user installation exists, uninstall it first and leave
+Delete application data unchecked.
+
+The update package has a Minisign signature. It has no Windows publisher
+certificate, so Windows may display an unrecognized-app warning.
+Check the download source and SHA256SUMS before running the installer.
+
+AtruhaTeX checks for signed updates when it opens. You can change this in
+Settings > About > Application updates. Download and installation require
+your action; open documents are saved before installation.
+
+WebView2 is required; its included installer may need internet access.
+PDF viewing and the Texlab language server are included.
+LaTeX compilation requires a separate TeX installation.
+
+Uninstalling keeps settings unless you choose to remove application data.
+Documents outside the application are not removed. Third-party licenses,
+attributions and required corresponding source are in third-party/.

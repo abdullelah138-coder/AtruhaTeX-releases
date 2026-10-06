@@ -1,0 +1,196 @@
+{
+  "schema": 1,
+  "application": "AtruhaTeX",
+  "version": "1.0.1",
+  "build": 2,
+  "channel": "beta",
+  "platform": "windows",
+  "architecture": "x86_64",
+  "publishedAt": "2026-10-06T04:45:44.933Z",
+  "installer": {
+    "file": "AtruhaTeX_1.0.1_Windows-x64.exe",
+    "bytes": 25352081,
+    "sha256": "166d2d20320f428a6f9a3feb4c236e8cc583937a0811c1adedc610644c427763"
+  },
+  "signature": {
+    "file": "AtruhaTeX_1.0.1_Windows-x64.exe.sig",
+    "bytes": 420,
+    "sha256": "8f035ebb4cb38f0e537f9608fdabc98759cd3fdf7469dcc26879b40e8fee6452"
+  },
+  "verification": {
+    "algorithm": "minisign",
+    "publicKeySha256": "757d47e9e31fc3d64829cbc8ed070d65a0b13ea5755a100a366af332f9ba36b8"
+  },
+  "notices": [
+    {
+      "file": "third-party/application/citation/CC-BY-SA-3.0.txt",
+      "bytes": 22240,
+      "sha256": "3f941b3b89cf7b8370ceb83cc76d2120d471b58735d8ca60238a751a48d7f72f"
+    },
+    {
+      "file": "third-party/application/citation/citeproc-2.4.63-source.js",
+      "bytes": 967493,
+      "sha256": "55abba1a8b8b48c14323fd053f9646013b4b7a0c977938064ecf5195a502b9f1"
+    },
+    {
+      "file": "third-party/application/citation/citeproc-LICENSE.txt",
+      "bytes": 1017,
+      "sha256": "b96ca8e1716f93449b480083c7510c18d129fa9afa4644d62c6347c06177ce30"
+    },
+    {
+      "file": "third-party/application/citation/core-MIT.txt",
+      "bytes": 1088,
+      "sha256": "f1b1ce790ec4a574930a32b6d684e0a69a3abe044655bc4ba2841ec12ad52705"
+    },
+    {
+      "file": "third-party/application/citation/CPAL-1.0.txt",
+      "bytes": 28319,
+      "sha256": "54cef60295bdffd5d41904338632538db1f3cdcd4c5f7ea5bb021d04eef14d92"
+    },
+    {
+      "file": "third-party/application/citation/locales.json",
+      "bytes": 124828,
+      "sha256": "7b2ea791d36f6340f16b73fb71b28d31f3c463bcab833d4aa1e7264112e736cc"
+    },
+    {
+      "file": "third-party/application/citation/NOTICE.txt",
+      "bytes": 1590,
+      "sha256": "9d977648fa7dc51e9785b9036c4909c4dc5fb277bd62f78e19de9811ebaa582c"
+    },
+    {
+      "file": "third-party/application/citation/plugin-bibtex-MIT.txt",
+      "bytes": 1088,
+      "sha256": "f1b1ce790ec4a574930a32b6d684e0a69a3abe044655bc4ba2841ec12ad52705"
+    },
+    {
+      "file": "third-party/application/citation/plugin-csl-MIT.txt",
+      "bytes": 1088,
+      "sha256": "f1b1ce790ec4a574930a32b6d684e0a69a3abe044655bc4ba2841ec12ad52705"
+    },
+    {
+      "file": "third-party/application/citation/plugin-ris-MIT.txt",
+      "bytes": 1088,
+      "sha256": "f1b1ce790ec4a574930a32b6d684e0a69a3abe044655bc4ba2841ec12ad52705"
+    },
+    {
+      "file": "third-party/application/citation/styles.json",
+      "bytes": 92474,
+      "sha256": "5fa17e41621474acceddfd725ed4d8161c2575938bd212df0134402b4f249a8b"
+    },
+    {
+      "file": "third-party/application/fonts/JetBrainsMono-OFL.txt",
+      "bytes": 4398,
+      "sha256": "60d55f23c6ce05a81099a762cb67ca2c9b6ea251c7912720998b4c89ebfd4faa"
+    },
+    {
+      "file": "third-party/application/fonts/NotoNaskhArabic-OFL.txt",
+      "bytes": 4381,
+      "sha256": "a783ea143e23dc0374b472b79d3b76a369e57a28eb599d19535073c0a4b3aa4d"
+    },
+    {
+      "file": "third-party/application/integrations/NOTICE.txt",
+      "bytes": 404,
+      "sha256": "fd6967c64963a7324ec21fa384342717942e1c118c1d4aa60d7414dc18f518c1"
+    },
+    {
+      "file": "third-party/application/integrations/Simple-Icons-CC0-1.0.txt",
+      "bytes": 6569,
+      "sha256": "9046848b63a5c92bff14e4accca80bd987e0623b74adf9226ce5198d312b79d5"
+    },
+    {
+      "file": "third-party/runtime/bin/LICENSE.texlab",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "file": "third-party/runtime/bin/SOURCE.txt",
+      "bytes": 101,
+      "sha256": "1d950d0935a287678588a8a15d5b238e35cc7636ee7ea7ff4d9a4197d0fdc4d9"
+    },
+    {
+      "file": "third-party/runtime/bin/TEXLAB.md",
+      "bytes": 354,
+      "sha256": "fe943b4728b207a7d5cdde44e5e77a4396553cea39d77362d9b9cc19f80ada29"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/LICENSE",
+      "bytes": 1184,
+      "sha256": "8854f4388f1ca13b3ad9baa42e95f5546b4c0b17109c159256d3eca7be39b09b"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/abseil.txt",
+      "bytes": 11564,
+      "sha256": "f54fff0b905df5b3464527c652a30e903b172d6dcab4d89b5e6f105d5e4a4603"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/agg23.txt",
+      "bytes": 725,
+      "sha256": "c110d3ea2ad77467ce0dcff7d3337e6c8be8049a5103f4b9bd5fd911a77972e5"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/fast_float.txt",
+      "bytes": 1106,
+      "sha256": "bf1b57355feca8fce77ee95f48002f8d4789fb71b30ec7599c06cda4901fbb2b"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/freetype.txt",
+      "bytes": 6741,
+      "sha256": "f4b133e25df1f86ad3ffea453aa0e613f0474f34778dbbb3e437e7b2724937d8"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/icu.txt",
+      "bytes": 28286,
+      "sha256": "93679f4389d53b6835d89843f251844fb9bc455b35bab036d3c8e7abe497a47a"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/lcms.txt",
+      "bytes": 1353,
+      "sha256": "7312b68c5b25e9bf2b828706fb4e29588f22705112f411fd42e1f7d84c3d139a"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/libjpeg_turbo.ijg",
+      "bytes": 13059,
+      "sha256": "db16a04128171879c60708d171b88d97345a2dd20f9bfc173680a4497c73f704"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/libjpeg_turbo.md",
+      "bytes": 5755,
+      "sha256": "be2b2b5ab168bce87bc3e31f2a5c5adba4b7f6e9e51d618e958d1d46972ebd95"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/libopenjpeg.txt",
+      "bytes": 1794,
+      "sha256": "c5ab0890a737c2dfa7ba675036554f6d17741d98629b0c2a145354d00617e6b2"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/libpng.txt",
+      "bytes": 5479,
+      "sha256": "452390433ba0f88aa3e2b122c647741b72a0c117cd6ed7a329b49785aecb5511"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/libtiff.txt",
+      "bytes": 1139,
+      "sha256": "92b72ba97e6c2749c2a94bc0ef646b47080217f1e772a482b33cf5a5f98a6506"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/llvm-libc.txt",
+      "bytes": 15418,
+      "sha256": "3b6226c32e168c83b891d8d6f0d3c29c2116dc3ef93dc93c307b54f279ecf383"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/pdfium.txt",
+      "bytes": 12818,
+      "sha256": "961eacd9633fff6d051db7208b755e9210e30efac7adec3e6a6d52798f0ccf0e"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/simdutf.txt",
+      "bytes": 1077,
+      "sha256": "c172a0ba936ff31230febb5dad869e25cb7c1a07480c7a381be8cf011bb52719"
+    },
+    {
+      "file": "third-party/runtime/runtime/pdfium/licenses/zlib.txt",
+      "bytes": 1332,
+      "sha256": "33fd641c9f3b0e0be64bc78fea9e94807674cdd70c48477599226cb8956565fe"
+    }
+  ]
+}
