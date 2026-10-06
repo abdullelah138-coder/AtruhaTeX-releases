@@ -1,0 +1,5 @@
+Python 3.13.15: https://www.python.org/
+Portable builds: https://github.com/astral-sh/python-build-standalone/releases/download/20260901/cpython-3.13.15%2B20260901-x86_64-pc-windows-msvc-install_only_stripped.tar.gz
+SymPy: https://github.com/sympy/sympy/tree/sympy-1.14.0
+mpmath: https://github.com/mpmath/mpmath/tree/1.3.0
+See RUNTIME.json for exact versions and distribution SHA-256 hashes.
