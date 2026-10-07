@@ -6,7 +6,7 @@ This repository contains official Windows installers, update metadata, checksums
 
 ## Windows installation
 
-[Download AtruhaTeX for Windows x64](https://raw.githubusercontent.com/abdullelah138-coder/AtruhaTeX-releases/main/windows/1.0.1/build-3/AtruhaTeX_1.0.1_Windows-x64.exe)
+[Download AtruhaTeX for Windows x64](https://raw.githubusercontent.com/abdullelah138-coder/AtruhaTeX-releases/main/windows/1.0.1/build-4/AtruhaTeX_1.0.1_Windows-x64.exe)
 
 Run the EXE to install AtruhaTeX. Existing files and settings are preserved when upgrading an installation in the same location. Previous versions remain available in the `windows` directory.
 
@@ -14,11 +14,13 @@ The installer includes PDF viewing, the Texlab language server, and an offline P
 
 ## Updates
 
-Update-enabled installations check when the app opens and show a notice when an update is available. Review updates under **Settings → About → Application updates**. Choose **Download and install**, **Download and install on exit**, or **Discard**. Settings can remain open; unsaved projects get a save prompt. Immediate installation restarts the app automatically. These controls become available after this maintenance update is installed.
+Update-enabled installations check when the app opens and show a notice when an update is available. Review updates under **Settings → About → Application updates**. Choose **Download and install**, **Download and install on exit**, or **Discard**. Settings can remain open; unsaved projects get a save prompt. Immediate installation restarts the app automatically.
 
 Older installations without an update channel need one manual upgrade to an update-enabled installer. Subsequent updates replace the existing application in place.
 
-Maintenance updates keep the release name and version unchanged. AtruhaTeX is currently **Pi 3.1 (1.0.1)**.
+Maintenance updates keep the release name and version unchanged. AtruhaTeX is currently **Pi 3.1 (1.0.1), internal build 4**.
+
+Build 4 adds writing and review tools and fixes transient mixed-direction typing, highlighting, and first-click scroll jumps. It was compiled and packaged without automated tests or installation testing; manual Windows acceptance is pending. Follow the [manual testing checklist](MANUAL-TESTING.md). Shared chat, reviewer roles, invitations and chapter permissions require an updated account server.
 
 To experience an in-app update, install the [earlier update-enabled build](https://raw.githubusercontent.com/abdullelah138-coder/AtruhaTeX-releases/main/windows/1.0.1/build-2/AtruhaTeX_1.0.1_Windows-x64.exe), then open AtruhaTeX. It will offer the newer build while retaining version 1.0.1.
 

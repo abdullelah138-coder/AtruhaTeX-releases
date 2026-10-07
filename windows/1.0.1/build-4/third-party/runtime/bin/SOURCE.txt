@@ -1,0 +1,2 @@
+texlab 5.26.0
+Source and corresponding source code: https://github.com/latex-lsp/texlab/tree/v5.26.0

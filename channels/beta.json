@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1+build.3",
-  "notes": "AtruhaTeX Pi 3.1 maintenance update.\n\n• Choose Download and install, Download and install on exit, or Discard.\n• Install from Settings without closing it first. Unsaved projects get a save prompt; immediate installation reopens AtruhaTeX automatically.\n• Texlab is detected correctly, and an offline Python/SymPy solver is included in the installer.\n• Accurate cursor placement on mixed Arabic and LaTeX lines.\n• Compact expandable issue cards and improved Review Fix previews, package suggestions, and common command corrections.\n\nThe application version remains 1.0.1. These updater controls take effect after this update is installed.",
-  "pub_date": "2026-10-06T14:52:55.153Z",
+  "version": "1.0.1+build.4",
+  "notes": "AtruhaTeX Pi 3.1 — internal build 4.\n\nWriting tools: chapter organization within a file, supervisor review with project chat and document comments, Zotero reading notes and annotations, collaboration invitations and activity, manuscript notation, scientific clipboard conversion, and chapter editing permissions. Shared collaboration features require the updated account server.\n\nEditor fixes: preserve mixed Arabic/English source layout and syntax highlighting while typing; place the first click at the chosen line without revealing the previous caret.\n\nBuilt and packaged without running automated tests, launching the application, or testing installation. Manual Windows acceptance is pending. Save your documents before installing. After updating, check mixed-direction typing, highlighting, and clicking a visible line after scrolling away from the old caret.\n\nThe visible version remains Pi 3.1 / 1.0.1. This package is internal build 4; the About label stays unchanged.",
+  "pub_date": "2026-10-07T15:25:04.553Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbzNwUFR4eWJaRTE3dUNPdGpNL21nQlc2LzZsS3k1UHpNTERxR3k3V1Mza0ltZ3p5eGk1cWdHdjZDMk9xaE5QOVJPYkViZCtqZG56bXRCSlZFenYxdmVoeHU3dUMyWEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjk4MzcwCWZpbGU6QXRydWhhVGVYXzEuMC4xX3g2NC1zZXR1cC5leGUKcUVQZXZRVU9wc0R4RXZlZXZkVm14bTdPcW1pK0p6UXFXdktlRURpVXJsUEtjRVIxUVNveHFYRU9WTllzcHlIa0dGTkZHbDFCSC9BMVAxOWhQcE5KQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/abdullelah138-coder/AtruhaTeX-releases/main/windows/1.0.1/build-3/AtruhaTeX_1.0.1_Windows-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbzNwUFR4eWJaRTlPWnFXWmhFdTlBVU9KdGdRdEtKdlo4N2ZtZlQ3WG84aWIyZlVhcVZnR2xnMjRlemltc0s2cnhpOTF1bGxJODZWMmJBemxLdHV5VFhHSkZnaVI3R0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzg2Njk2CWZpbGU6QXRydWhhVGVYXzEuMC4xX3g2NC1zZXR1cC5leGUKcUNPTXA5MC9PWXBwK1BKTHFVaVdiUnBLa2JrSkhXUHpsazgrdmlGOTMwV1NsRnZ4U1NCYjhKalNFWlRIQ2pPdnUxaVdqMFV0SmZrVGhFekRFOGlJQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/abdullelah138-coder/AtruhaTeX-releases/main/windows/1.0.1/build-4/AtruhaTeX_1.0.1_Windows-x64.exe"
     }
   }
 }
